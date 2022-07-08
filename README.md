@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guythatbegin
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me giyuarata2@gmail.com
 
 <!---
